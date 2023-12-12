@@ -6,6 +6,8 @@
 // @author       GabrielV
 // @match        https://developer.valvesoftware.com/*
 // @icon         https://developer.valvesoftware.com/favicon.ico
+// @updateURL    https://github.com/VDeltaGabriel/VDC-User-Scripts/raw/main/VDC-User-Scripts.user.js
+// @downloadURL  https://github.com/VDeltaGabriel/VDC-User-Scripts/raw/main/VDC-User-Scripts.user.js
 // @grant        none
 // ==/UserScript==
 
